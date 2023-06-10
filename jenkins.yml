@@ -1,5 +1,5 @@
 ---
- - hosts: 3.80.105.134
+ - hosts: 172.31.24.18
 
    tasks:
     - name: ensure the jenkins apt repository key is installed
